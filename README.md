@@ -1,7 +1,7 @@
 # Movie-Rental
 Movie Rental Application - Python, Layered Architecture implementation (with Object-Oriented Programming and Test-Driven Development)
 
-UI ---> SERVICES ---> REPOSITORY ---> DOMAIN
+UI ---> SERVICES ---> REPOSITORY ---> DOMAIN                                                                                                                             
 The application can be started by running the file start.py and it has its own exception classes.
 
 The Movie Rental Application allows users to: 
